@@ -1,5 +1,4 @@
-;;; fira-code-mode.el --- Minor mode for Fira Code ligatures using prettify-symbols
-;; -*- lexical-binding: t; -*-
+;;; fira-code-mode.el --- Minor mode for Fira Code ligatures using prettify-symbols -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2020 Jonathan Ming
 
